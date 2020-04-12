@@ -1,0 +1,85 @@
+{
+  "project_info": {
+    "project_number": "133112691708",
+    "firebase_url": "https://crud-firebase-contactos-5854c.firebaseio.com",
+    "project_id": "crud-firebase-contactos-5854c",
+    "storage_bucket": "crud-firebase-contactos-5854c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:133112691708:android:cddd8aae585cf548b7d079",
+        "android_client_info": {
+          "package_name": "com.example.crudfirebasecontactos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "133112691708-7cma9eh95ikka7ulohi0leh8daifruq4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.crudfirebasecontactos",
+            "certificate_hash": "ae5da5828c2a18430bd3745e65151758f0a8efd9"
+          }
+        },
+        {
+          "client_id": "133112691708-jdldfrlrk55rmlfdcct7ngplfqp9nqsn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLiniDnpIvzQFeHIuOPE3kMyrxzSaQ6aY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "133112691708-jdldfrlrk55rmlfdcct7ngplfqp9nqsn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:133112691708:android:1d805e8717c066dbb7d079",
+        "android_client_info": {
+          "package_name": "com.example.firebasecrud"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "133112691708-cue55ksgltcbl6pneenkgts37bofpqah.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.firebasecrud",
+            "certificate_hash": "ce2b09d33b72954209588f175b63370a750b30d7"
+          }
+        },
+        {
+          "client_id": "133112691708-jdldfrlrk55rmlfdcct7ngplfqp9nqsn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLiniDnpIvzQFeHIuOPE3kMyrxzSaQ6aY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "133112691708-jdldfrlrk55rmlfdcct7ngplfqp9nqsn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
